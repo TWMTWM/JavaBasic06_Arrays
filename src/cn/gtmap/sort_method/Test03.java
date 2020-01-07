@@ -1,7 +1,7 @@
 package cn.gtmap.sort_method;
 
 /**
- * 练习：冒泡法进行正排序和倒排序
+ * 练习：选择法正排序，冒泡法倒排序
  * @author Administrator
  *
  */
